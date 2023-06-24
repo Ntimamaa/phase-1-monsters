@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+    color: black;
+}
+#create-monster{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#submit{
+    background-color: rgb(174, 132, 81);
+    color: black;
+}
